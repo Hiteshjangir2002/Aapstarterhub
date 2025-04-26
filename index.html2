@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AapStarterHub - Best Startup Solutions</title>
+    <meta name="description" content="AapStarterHub provides the best tools, guides, and solutions to kickstart your startup journey successfully.">
+    <link rel="icon" type="image/png" href="favicon.png"> <!-- Favicon file -->
+    
+    <!-- Open Graph for better sharing -->
+    <meta property="og:title" content="AapStarterHub - Best Startup Solutions">
+    <meta property="og:description" content="Get the best startup guides, ideas, and tools with AapStarterHub.">
+    <meta property="og:image" content="https://yourdomain.com/preview-image.png"> <!-- Optional -->
+    <meta property="og:url" content="https://hiteshjangir2002.github.io/Aapstarterhub/">
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        a {
+            display: block;
+            margin: 10px;
+            font-size: 20px;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to AapStarterHub 🚀</h1>
+    <p>Helping You Build the Future</p>
+
+    <a href="about.html">About Us</a>
+    <a href="contact.html">Contact</a>
+    <a href="blog.html">Blog</a>
+</body>
+</html>
